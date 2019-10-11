@@ -1,0 +1,20 @@
+Tara Knowles
+Feminino
+22/10/1990
+1.58
+67.0
+Gemma Teller
+Feminino
+22/10/2000
+1.50
+67
+Maria Joana
+Feminino
+22/10/2001
+1.65
+64.0
+Renato
+Masculino
+22/10/2009
+1.71
+85

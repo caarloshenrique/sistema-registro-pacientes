@@ -1,0 +1,4 @@
+Nome: Renato
+Idade: 9 anos (em 27/06/2019)
+Sexo: Masculino
+IMC: 29,069

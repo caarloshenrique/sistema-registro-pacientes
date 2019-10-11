@@ -1,0 +1,4 @@
+Nome: Gemma Teller
+Idade: 18 anos (em 27/06/2019)
+Sexo: Feminino
+IMC: 29,778

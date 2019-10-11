@@ -1,0 +1,4 @@
+Nome: Maria Joana
+Idade: 17 anos (em 27/06/2019)
+Sexo: Feminino
+IMC: 23,508
