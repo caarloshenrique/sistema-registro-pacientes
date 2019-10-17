@@ -1,2 +1,2 @@
 # sistema-registro-pacientes
-Um sistema para registro de dados de pacientes em arquivos desenvolvido em Java
+:apple: Um sistema para registro de dados de pacientes em arquivos de texto, desenvolvido em Java
