@@ -7,6 +7,10 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
 {...}
 
+## :clipboard: Pré-requisitos
+
+- [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
+
 ## :fire: Instalação e execução
 Execute a classe `leituraArquivo` localizada em `src/leituraArquivo.java`
 
